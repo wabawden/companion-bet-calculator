@@ -1,3 +1,5 @@
+This project is to onvert the current excel spreadsheet to a single-page web app.
+
 # companion-bet-calculator
 A calculator for taking advantage of bookie price boosts where multiple back bets can be combined to produce a layable outcome.
 
